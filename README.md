@@ -1,4 +1,4 @@
-# hass-bha-icons
+# hass-olibra-icons
 
 Custom icon pack designed for Home Assistant.
 
@@ -16,7 +16,7 @@ Add the folowing to the `frontend` section of your `configuration.yaml`
 ```yaml
 frontend:
   extra_html_url:
-    - /local/hass-mgr-icons.html
+    - /local/hass-olibra-icons.html
 ```
 
 Restart home-assistant.
@@ -30,7 +30,7 @@ Example:
 ```
 entities:
   - entity: switch.bond_switch
-    icon: 'mgr:bond'
+    icon: 'olibra:bond'
     name: Bond
 show_header_toggle: false
 type: entities
