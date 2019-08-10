@@ -4,7 +4,7 @@ Custom icon pack designed for Home Assistant.
 
 ## Content
 
-![Preview](./svg/bond-logo.svg) bond-logo<br/>
+<img src="./svg/bond-logo.svg" width="24" height="24"> bond-logo<br/>
 
 
 ## Install
