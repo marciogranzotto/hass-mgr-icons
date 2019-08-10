@@ -4,7 +4,7 @@ Custom icon pack designed for Home Assistant.
 
 ## Content
 
-![Preview](./svg/bond.svg) bond<br />
+![Preview](./svg/bond-logo.svg) bond-logo<br/>
 
 
 ## Install
@@ -30,7 +30,7 @@ Example:
 ```
 entities:
   - entity: switch.bond_switch
-    icon: 'olibra:bond'
+    icon: 'olibra:bond-logo'
     name: Bond
 show_header_toggle: false
 type: entities
