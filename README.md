@@ -23,7 +23,7 @@ Restart home-assistant.
 
 ## Using
 
-The icons uses the prefix `bha:`.
+The icons uses the prefix `olibra:`.
 
 Example:
 
